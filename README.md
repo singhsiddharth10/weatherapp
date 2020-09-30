@@ -1,16 +1,10 @@
-# weatherapp
+A weaher app created using flutter technolgy.
 
-A new Flutter application.
+This app tells the recent weather of your current location. And you can also view the weather details of any city,country,state and etc.
 
-## Getting Started
+Features to be added:
+1. Add more weather elements such as visibilty, humidity, air pressure, and  etc.
+2. Add a section which can predict weather details for a upcoming week.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
